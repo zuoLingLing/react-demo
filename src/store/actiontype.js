@@ -1,2 +1,3 @@
-export const CHANGE_VALUE = 'changeValue',
-    ADD_ITEM = 'addItem';
+export const ADD_ITEM = 'ADD_ITEM',
+             CHANGE_VALUE = 'CHANGE_VALUE',
+             DELETE_ITEM = 'DELETE_ITEM';
